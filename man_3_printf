@@ -124,4 +124,4 @@ int main(void)
 .SH SEE ALSO
 .R printf(3)
 .SH AUTHORS
-Written by \fBIfeoluwa Daramola\fR and \fBAkanagbu Favour\fR.
+Written by \fBIfeoluwa Daramola\fR and \fBAkanegbu Favour\fR.
